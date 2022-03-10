@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Forecast Zones",
+    "src": "forecast_zones.png",
+    "hovers": [
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      }
+    ]
+  },
+  {
+    "name": "NAVAIDS and Airways",
+    "src": "navaids_airways.png",
+    "hovers": [
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      }
+    ]
+  },
+  {
+    "name": "Passes",
+    "src": "sc_alaska_passes.png",
+    "hovers": [
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      }
+    ]
+  }, {
+    "name": "Restricted Areas and MOAs",
+    "src": "restricted_moa.png",
+    "hovers": [
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      }
+    ]
+  },
+  {
+    "name": "Ranges",
+    "src": "ranges.png",
+    "hovers": [
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      }
+    ]
+  }
+]
