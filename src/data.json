@@ -70,12 +70,176 @@
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "G10"
       },
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "R99"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "V319"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "V321"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "V334"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "V436"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "V438"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "V440"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "V456"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "V462"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "J111"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "J115"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "J125"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ORT",
+        "label2": "AES"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "AKN",
+        "label2": "AUB"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "JOH",
+        "label2": "ALJ"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TO",
+        "label2": "BET"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "BGQ"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ENA"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ENN"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "FAI"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "GKN",
+        "label2": "GLA"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "HOM",
+        "label2": "ACE"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ILI"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "MCG",
+        "label2": "VTR"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "MDO"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ODK"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "RWO"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SQA"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TED",
+        "label2": "(ANC)"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TKA"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "VTR"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TO",
+        "label2": "YAK"
       }
     ]
   },
@@ -94,7 +258,8 @@
         "label": "KEN"
       }
     ]
-  }, {
+  },
+  {
     "name": "Restricted Areas and MOAs",
     "src": "restricted_moa.png",
     "hovers": [
@@ -130,6 +295,11 @@
     "name": "Winds Aloft",
     "src": "winds_aloft.png",
     "hovers": [
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KEN"
+      },
       {
         "top": "10px",
         "left": "10px",
