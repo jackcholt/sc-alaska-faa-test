@@ -8,7 +8,7 @@ const MenuItem = styled.li`
   
   :hover {
     background-color: lightskyblue;
-    font-style: oblique;
+    font-weight: bold;
   }
 `
 
