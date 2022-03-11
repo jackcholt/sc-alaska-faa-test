@@ -4,8 +4,8 @@ import PropTypes from "prop-types";
 import styled from "styled-components"
 
 const MenuItem = styled.li`
-  list-style-type: none;
-
+  cursor: pointer;
+  
   :hover {
     color: blue;
     font-style: oblique;
