@@ -7,7 +7,7 @@ const MenuItem = styled.li`
   cursor: pointer;
   
   :hover {
-    color: blue;
+    background-color: lightskyblue;
     font-style: oblique;
   }
 `
