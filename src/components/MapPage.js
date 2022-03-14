@@ -42,7 +42,8 @@ const MapPage = () => {
             :
             <StyledMap
                 src={source}
-                hovers={mapData}/>
+                hovers={mapData}
+            />
         }
       </>
   )

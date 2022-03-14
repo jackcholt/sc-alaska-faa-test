@@ -1,3 +1,26 @@
+# South Central Alaska FAA Place Name Drill
+
+This app will allow you to test yourself on the names of place names in the south central area of 
+Alaska.  It presents blank areas on maps of south central Alaska for which the names need to be memorized
+and will reveal their names if you hover your mouse over them to help you drill yourself about them.
+
+## Technical Aspects
+
+It is developed as a javascript [React](https://reactjs.org) web app.  The data for this 
+app is contained in the src/data.json file.
+That file may be edited to modify the data that is displayed in the app. React allows you 
+to build a website as a hierarchy of independent components. The source code includes 
+a facility (called [storybook](https://storybook.js.org/)) for developing those React 
+components in isolation. In addition to the commands available as described below, you can use
+"npm run storybook", "pnpm storybook" or "yarn storybook" (depending on your favorite 
+build tool) to start storybook on 
+[http://localhost:6006](http://localhost:6006).  
+
+This webapp was originally developed using [PNPM](hhtps://pnpm.io) as it's build tool
+to take advantage of it's diskspace and build speed efficiencies.  
+
+For more information about how to further develop this app, see the following sections.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

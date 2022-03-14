@@ -72,7 +72,8 @@
         "top": 738,
         "width": 78,
         "height": 20,
-        "label": "G10"
+        "label": "G10",
+        "debug": true
       },
       {
         "left": 95,
@@ -251,7 +252,8 @@
         "width": 76,
         "height" : 55,
         "label": "TED",
-        "label2": "(ANC)"
+        "label2": "(ANC)",
+        "debug": true
       },
       {
         "left": 10,
