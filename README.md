@@ -16,7 +16,7 @@ components in isolation. In addition to the commands available as described belo
 build tool) to start storybook on 
 [http://localhost:6006](http://localhost:6006).  
 
-This webapp was originally developed using [PNPM](hhtps://pnpm.io) as it's build tool
+This webapp was originally developed using [PNPM](https://pnpm.io) as it's build tool
 to take advantage of it's diskspace and build speed efficiencies.  
 
 For more information about how to further develop this app, see the following sections.
