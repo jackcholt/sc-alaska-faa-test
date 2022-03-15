@@ -309,15 +309,35 @@
     "name": "Ranges",
     "src": "ranges.png",
     "hovers": [
+       {
+        "top": "10px",
+        "left": "10px",
+        "label": "Alaska Range"
+      }, 
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "Aleutian Rancge"
       },
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "Chugach Mountains"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Kenai Mountains"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Kuskokwim Mountains"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Wrangell Mountains"
       }
     ]
   },
