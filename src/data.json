@@ -159,7 +159,7 @@
         "label": "J125"
       },
       {
-        "left": 1072,
+        "left": 1065,
         "top": 256,
         "width": 76,
         "height": 55,
@@ -221,49 +221,50 @@
         "label": "FAI"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 905,
+        "top": 360,
         "width": 76,
         "height": 55,
         "label": "GKN",
         "label2": "GLA"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 550,
+        "top": 610,
         "width": 76,
         "height": 55,
         "label": "HOM",
         "label2": "ACE"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 370,
+        "top": 580,
         "width": 76,
         "height": 55,
         "label": "ILI"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 365,
+        "top": 205,
         "width": 76,
         "height": 55,
         "label": "MCG",
         "label2": "VTR"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 870,
+        "top": 666,
         "width": 76,
         "height": 55,
         "label": "MDO"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 460,
+        "top": 815,
         "width": 76,
         "height": 55,
-        "label": "ODK"
+        "label": "ODK",
+        "label2": "RWO"
       },
       {
         "left": 10,
