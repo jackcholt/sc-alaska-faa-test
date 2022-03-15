@@ -167,84 +167,116 @@
         "label2": "AES"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 240,
+        "top": 670,
+        "width": 76,
+        "height": 55,
         "label": "AKN",
         "label2": "AUB"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 850,
+        "top": 555,
+        "width": 76,
+        "height": 55,
         "label": "JOH",
         "label2": "ALJ"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 180,
+        "top": 400,
+        "width": 76,
+        "height": 55,
         "label": "TO",
         "label2": "BET"
       },
       {
-        "left": 10,
-        "top": 10,
-        "label": "BGQ"
+        "left": 670,
+        "top": 385,
+        "width": 76,
+        "height": 55,
+        "label": "BGQ",
+        "label2": "Big Lake"
       },
       {
-        "left": 10,
-        "top": 10,
-        "label": "ENA"
+        "left": 590,
+        "top": 520,
+        "width": 76,
+        "height": 55,
+        "label": "ENA",
+        "label2": "Kenai"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 730,
+        "top": 75,
+        "width": 76,
+        "height": 55,
         "label": "ENN"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 800,
+        "top": 50,
+        "width": 76,
+        "height": 55,
         "label": "FAI"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "GKN",
         "label2": "GLA"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "HOM",
         "label2": "ACE"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "ILI"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "MCG",
         "label2": "VTR"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "MDO"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "ODK"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "RWO"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "SQA"
       },
       {
@@ -258,16 +290,22 @@
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "TKA"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "VTR"
       },
       {
         "left": 10,
         "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "TO",
         "label2": "YAK"
       }
