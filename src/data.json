@@ -471,57 +471,68 @@
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "ORT",
+        "label2": "Northway"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "OTZ",
+        "label2": "Kotzebue"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "SNP",
+        "label2": "ST Paul Island"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "TKA",
+        "label2": "Talkeetna"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "UNK",
+        "label2": "Unalakleet"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "YAK",
+        "label2": "Yakutat"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "5AB"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "5AC"
       },
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "5AD"
       },
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "5AE"
       },
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "5AG"
+      },
+       {
+        "top": "10px",
+        "left": "10px",
+        "label": "5AP"
       }
     ]
   }
