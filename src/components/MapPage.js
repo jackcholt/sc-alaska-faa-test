@@ -19,6 +19,9 @@ const SelectMessage = styled.div`
   width: 75%;
   height: 100%;
   float: right;
+  padding: 2rem;
+  font-weight: bold;
+  font-size: 2em;
 `
 
 const StyledMenu = styled(Menu)`

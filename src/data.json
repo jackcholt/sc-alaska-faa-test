@@ -110,29 +110,29 @@
         "label": "V436"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 797,
+        "top": 181,
         "width": 78,
         "height": 20,
         "label": "V438"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 520,
+        "top": 280,
         "width": 78,
         "height": 20,
         "label": "V440"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 775,
+        "top": 370,
         "width": 78,
         "height": 20,
         "label": "V456"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 365,
+        "top": 555,
         "width": 78,
         "height": 20,
         "label": "V462"
@@ -159,8 +159,10 @@
         "label": "J125"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 1072,
+        "top": 256,
+        "width": 76,
+        "height": 55,
         "label": "ORT",
         "label2": "AES"
       },
@@ -326,144 +328,144 @@
       {
         "top": "10px",
         "left": "10px",
-        "label": "ADK"
+        "label": "ADK",
         "label2": "ADAK ISLAND"
       }, 
       {
         "top": "10px",
         "left": "10px",
-        "label": "ADQ"
+        "label": "ADQ",
         "label2": "Kodiak"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "AFM"
+        "label": "AFM",
         "label2": "Ambler"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "AKN"
+        "label": "AKN",
         "label2": "King Salmon"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "ANC"
+        "label": "ANC",
         "label2": "Anchorage"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "ANN"
+        "label": "ANN",
         "label2": "Annette Island"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "BET"
+        "label": "BET",
         "label2": "Bethel"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "BRW"
+        "label": "BRW",
         "label2": "Barrow"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "BTI"
+        "label": "BTI",
         "label2": "Barter Island"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "BTT"
+        "label": "BTT",
         "label2": "Bettles"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "CDB"
+        "label": "CDB",
         "label2": "Cold Bay"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "CZF"
+        "label": "CZF",
         "label2": "Camp Romanzof"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "EHM"
+        "label": "EHM",
         "label2": "Camp Newenham"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "FAI"
+        "label": "FAI",
         "label2": "Fairbanks"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "FYU"
+        "label": "FYU",
         "label2": "Fort Yukon"
       },  {
         "top": "10px",
         "left": "10px",
-        "label": "GAL"
+        "label": "GAL",
         "label2": "Galena"
       },  
       {
-        "top": "10px"
+        "top": "10px",
         "left": "10px",
-        "label": "GKN"
+        "label": "GKN",
         "label2": "Gulkana"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "HOM"
+        "label": "HOM",
         "label2": "Homer"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "IKO"
+        "label": "IKO",
         "label2": "Nikolski"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "JNU"
+        "label": "JNU",
         "label2": "Juneau"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "LUR"
+        "label": "LUR",
         "label2": "Cape Lisburne"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "MCG"
+        "label": "MCG",
         "label2": "McGrath"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "MDO"
+        "label": "MDO",
         "label2": "Middleton Island"
       },  
       {
         "top": "10px",
         "left": "10px",
-        "label": "OME"
+        "label": "OME",
         "label2": "NOME"
       },  
       {
