@@ -317,6 +317,16 @@
       {
         "top": "10px",
         "left": "10px",
+        "label": "Windy Pass"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Windy Pass"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
         "label": "Lake Clark Pass"
       }
     ]
