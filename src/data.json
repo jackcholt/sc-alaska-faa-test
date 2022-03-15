@@ -289,22 +289,15 @@
         "label2": "(ANC)"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 660,
+        "top": 330,
         "width": 76,
         "height": 55,
         "label": "TKA"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 76,
-        "height": 55,
-        "label": "VTR"
-      },
-      {
-        "left": 10,
-        "top": 10,
+        "left": 1090,
+        "top": 610,
         "width": 76,
         "height": 55,
         "label": "TO",
