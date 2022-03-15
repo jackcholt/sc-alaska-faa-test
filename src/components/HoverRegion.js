@@ -9,12 +9,12 @@ const Region = styled.div`
   width: ${({width}) => width}px;
   height: ${({height}) => height}px;
   border: 1px solid;
+  border-radius: 5px;
   opacity: ${({debug}) => debug ? 1 : 0};
   font-family: sans-serif;
-  padding: 1rem;
+  padding: .5rem;
   background: white;
   color: black;
-  z-index: 9999;
   
   :hover {
     opacity: 1;
@@ -32,7 +32,7 @@ const HoverRegion = (props) => {
           debug={debug}
       >
         {label}
-        {label2 && label2}
+        {label2 && (<p>{label2}</p>)}
       </Region>
   )
 }

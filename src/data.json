@@ -68,30 +68,29 @@
     "src": "navaids_airways.png",
     "hovers": [
       {
-        "left": 402,
-        "top": 738,
+        "left": 571,
+        "top": 733,
         "width": 78,
         "height": 20,
-        "label": "G10",
-        "debug": true
+        "label": "G10"
       },
       {
-        "left": 95,
-        "top": 600,
+        "left": 250,
+        "top": 586,
         "width": 78,
         "height": 20,
         "label": "R99"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 444,
+        "top": 408,
         "width": 78,
         "height": 20,
         "label": "V319"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 410,
+        "top": 688,
         "width": 78,
         "height": 20,
         "label": "V321"
@@ -247,13 +246,12 @@
         "label": "SQA"
       },
       {
-        "left": 582,
-        "top": 465,
+        "left": 652,
+        "top": 463,
         "width": 76,
-        "height" : 55,
+        "height": 55,
         "label": "TED",
-        "label2": "(ANC)",
-        "debug": true
+        "label2": "(ANC)"
       },
       {
         "left": 10,

@@ -5,10 +5,14 @@ import Menu from "./Menu"
 import styled from "styled-components"
 import PropTypes from "prop-types";
 
+const Container = styled.div`
+  position: relative;
+`
 const StyledMap = styled(Map)`
   width: 75%;
   height: 100%;
   float: right;
+  position: absolute;
 `
 
 const SelectMessage = styled.div`
@@ -28,7 +32,7 @@ const MapPage = () => {
   const [mapData, setMapData] = useState(null)
 
   return (
-      <>
+      <Container>
         <StyledMenu
             setSource={setSource}
             setMapData={setMapData}
@@ -45,7 +49,7 @@ const MapPage = () => {
                 hovers={mapData}
             />
         }
-      </>
+      </Container>
   )
 }
 
