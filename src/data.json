@@ -110,8 +110,22 @@
         "label": "V436"
       },
       {
-        "left": 797,
+        "left": 795,
         "top": 181,
+        "width": 78,
+        "height": 20,
+        "label": "V438"
+      },
+      {
+        "left": 425,
+        "top": 750,
+        "width": 78,
+        "height": 20,
+        "label": "V438"
+      },
+      {
+        "left": 645,
+        "top": 580,
         "width": 78,
         "height": 20,
         "label": "V438"
@@ -124,8 +138,29 @@
         "label": "V440"
       },
       {
+        "left": 720,
+        "top": 635,
+        "width": 78,
+        "height": 20,
+        "label": "V440"
+      },
+      {
         "left": 775,
         "top": 370,
+        "width": 78,
+        "height": 20,
+        "label": "V456"
+      },
+      {
+        "left": 1030,
+        "top": 360,
+        "width": 78,
+        "height": 20,
+        "label": "V456"
+      },
+      {
+        "left": 470,
+        "top": 530,
         "width": 78,
         "height": 20,
         "label": "V456"
@@ -136,6 +171,41 @@
         "width": 78,
         "height": 20,
         "label": "V462"
+      },
+      {
+        "left": 365,
+        "top": 555,
+        "width": 78,
+        "height": 20,
+        "label": "V319"
+      },
+      {
+        "left": 775,
+        "top": 490,
+        "width": 78,
+        "height": 20,
+        "label": "V319"
+      },
+      {
+        "left": 965,
+        "top": 555,
+        "width": 78,
+        "height": 20,
+        "label": "V319"
+      },
+      {
+        "left": 895,
+        "top": 605,
+        "width": 78,
+        "height": 20,
+        "label": "A1"
+      },
+      {
+        "left": 415,
+        "top": 335,
+        "width": 78,
+        "height": 20,
+        "label": "A1"
       },
       {
         "left": 10,
@@ -267,15 +337,8 @@
         "label2": "RWO"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 76,
-        "height": 55,
-        "label": "RWO"
-      },
-      {
-        "left": 10,
-        "top": 10,
+        "left": 340,
+        "top": 435,
         "width": 76,
         "height": 55,
         "label": "SQA"
