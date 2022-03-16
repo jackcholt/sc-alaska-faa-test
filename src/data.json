@@ -54,12 +54,278 @@
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "ADK*",
+        "label2": "Adak Island"
       },
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "ADQ",
+        "label2": "Kodiak"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "AKN",
+        "label2": "King Salmon"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ANC",
+        "label2": "Anchorage"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "AQT",
+        "label2": "Nuiqsut"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "BET",
+        "label2": "Bethel"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "BIG",
+        "label2": "Delta Junction"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "BRW",
+        "label2": "Barrow"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "BTT",
+        "label2": "Bettles"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "CDB",
+        "label2": "Cold Bay"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "CDB",
+        "label2": "Cordova"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "CZF*",
+        "label2": "Cape Romanzof"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "DLG",
+        "label2": "Dillingham"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "EHM*",
+        "label2": "Cape Newenham"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ENA",
+        "label2": "Kenai"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "FAI",
+        "label2": "Fairbanks"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "GAL",
+        "label2": "Galena"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "GKN",
+        "label2": "Gulkana"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "GST",
+        "label2": "Gustavus"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "HNA",
+        "label2": "Haines"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "HOM",
+        "label2": "Homer"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ILI",
+        "label2": "Iliamna"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KTN",
+        "label2": "Ketchikan"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "MCG",
+        "label2": "McGrath"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "OME",
+        "label2": "Nome"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ORT",
+        "label2": "Northway"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "OTZ",
+        "label2": "Kotzebue"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "PAQ",
+        "label2": "Palmer Municipal"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "PSG",
+        "label2": "Petersburg"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SCC",
+        "label2": "Deadhorse"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SDP",
+        "label2": "Sand Point"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SGY",
+        "label2": "Skagway"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SIT",
+        "label2": "Sitka"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SNP",
+        "label2": "St Paul Island"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SYA*",
+        "label2": "Shemya"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TAL",
+        "label2": "Tanana"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TKA",
+        "label2": "Talkeetna"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TNC*",
+        "label2": "Tin City"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "UNK",
+        "label2": "Unalakleet"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "UTO",
+        "label2": "Indian Mountain"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "VDZ",
+        "label2": "Valdez"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "YAK",
+        "label2": "Yakutat"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "CYDA",
+        "label2": "Dawson City"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "CYDB",
+        "label2": "Burwash Landing"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "CYXY",
+        "label2": "Whitehorse"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "JNU",
+        "label2": "Juneau"
       }
     ]
   },
