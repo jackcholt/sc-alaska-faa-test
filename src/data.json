@@ -4,13 +4,13 @@
     "src": "bodies_of_water.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "KEN"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "KEN"
       }
     ]
@@ -20,13 +20,13 @@
     "src": "flight_plan_metar.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "KEN"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "KEN"
       }
     ]
@@ -36,13 +36,13 @@
     "src": "forecast_zones.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "KEN"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "KEN"
       }
     ]
@@ -52,13 +52,13 @@
     "src": "fpa_taf.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "KEN"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "KEN"
       }
     ]
@@ -373,23 +373,23 @@
     "src": "sc_alaska_passes.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Windy Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Windy Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Windy Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Lake Clark Pass"
       }
     ]
@@ -399,133 +399,133 @@
     "src": "restricted_moa.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Susitna MOA"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Naknek 1"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Naknek 2"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Fox 1"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Fox 2"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Fox 3"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Delta 1-4"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Paxon"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Stony A"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Stony B"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Yukon 1"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Yukon 2"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Yukon 3B"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Yukon 3H and 3A"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Yukon 4"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Yukon 5"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Eilson"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Birch"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Buffalo"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "Galena"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "R2201A-D"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "R2202A-C"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "R2203A-C"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "R2205A-K"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "top": 10,
+        "left": 10,
         "label": "R2206"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "R2211"
       }
     ]
@@ -534,34 +534,34 @@
     "name": "Ranges",
     "src": "ranges.png",
     "hovers": [
-       {
-        "top": "10px",
-        "left": "10px",
-        "label": "Alaska Range"
-      }, 
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
+        "label": "Alaska Range"
+      },
+      {
+        "top": 10,
+        "left": 10,
         "label": "Aleutian Rancge"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Chugach Mountains"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Kenai Mountains"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Kuskokwim Mountains"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "top": 10,
+        "left": 10,
         "label": "Wrangell Mountains"
       }
     ]
@@ -571,212 +571,285 @@
     "src": "winds_aloft.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "ADK",
         "label2": "ADAK ISLAND"
-      }, 
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 533,
+        "top": 806,
+        "width": 76,
+        "height": 55,
         "label": "ADQ",
         "label2": "Kodiak"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "AFM",
         "label2": "Ambler"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 281,
+        "top": 700,
+        "width": 92,
+        "height": 55,
         "label": "AKN",
         "label2": "King Salmon"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 627,
+        "top": 430,
+        "width": 76,
+        "height": 55,
         "label": "ANC",
         "label2": "Anchorage"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "ANN",
         "label2": "Annette Island"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "BET",
         "label2": "Bethel"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "BRW",
         "label2": "Barrow"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "BTI",
         "label2": "Barter Island"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "BTT",
         "label2": "Bettles"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "CDB",
         "label2": "Cold Bay"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "CZF",
         "label2": "Camp Romanzof"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "EHM",
         "label2": "Camp Newenham"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "FAI",
         "label2": "Fairbanks"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "FYU",
         "label2": "Fort Yukon"
-      },  {
-        "top": "10px",
-        "left": "10px",
+      },
+      {
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "GAL",
         "label2": "Galena"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "GKN",
         "label2": "Gulkana"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "HOM",
         "label2": "Homer"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "IKO",
         "label2": "Nikolski"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "JNU",
         "label2": "Juneau"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "LUR",
         "label2": "Cape Lisburne"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "MCG",
         "label2": "McGrath"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "MDO",
         "label2": "Middleton Island"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "OME",
         "label2": "NOME"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "ORT",
         "label2": "Northway"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "OTZ",
         "label2": "Kotzebue"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "SNP",
         "label2": "ST Paul Island"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "TKA",
         "label2": "Talkeetna"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "UNK",
         "label2": "Unalakleet"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "YAK",
         "label2": "Yakutat"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "5AB"
-      },  
+      },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "5AC"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "5AD"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "5AE"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "5AG"
       },
-       {
-        "top": "10px",
-        "left": "10px",
+      {
+        "left": 10,
+        "top": 10,
+        "width": 76,
+        "height": 55,
         "label": "5AP"
       }
     ]

@@ -1,0 +1,21 @@
+# docker hangs on this project if we don't ignore these dirs
+.dockerignore           
+.eslintignore           
+.eslintrc.json          
+.git
+.gitignore              
+.huskyrc.json           
+.lintstagedrc.json      
+.prettierignore
+Dockerfile              
+Dockerfile-storybook
+azure-pipelines.yml     
+contributing.md         
+jest.config.js          
+jest.setup.js           
+manifest.yml            
+nodemon.json            
+package-lock.json       
+pipeline
+readme.md               
+terraform

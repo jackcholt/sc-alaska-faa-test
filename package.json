@@ -23,7 +23,9 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "start:docker": "cross-env PORT=80 NODE_ENV=production node -r esm src/index.js"
+    "start:docker": "cross-env PORT=80 NODE_ENV=production node -r esm src/index.js",
+    "docker:app": "docker build -f Dockerfile -t sc-alaska-faa:app .",
+    "docker:app:run": "docker run -p 3001:80 -it sc-alaska-faa:app /bin/bash || true"
   },
   "eslintConfig": {
     "extends": [
