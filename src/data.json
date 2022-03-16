@@ -22,12 +22,320 @@
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "ADQ* PADQ",
+        "label2": "Kodiak State"
       },
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "AKN* PAKN",
+        "label2": "King Salmon"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ANC* PANC",
+        "label2": "Ted Stevens Intl"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "BCV PABV",
+        "label2": "Birchwood"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "BIG* PABI",
+        "label2": "Allen AAF"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "CDV PACV",
+        "label2": "Merle K(Mudhole) Smith"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "EDF* PAED",
+        "label2": "Elmendorf AFB"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "EIL* PAEI",
+        "label2": "Eielson AFB"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ENA* PAEN",
+        "label2": "Kenai Municipal"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ENN PANN",
+        "label2": "Nenana Municipal"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "FAI* PAFA",
+        "label2": "Fairbanks INTL"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "FBK* PAFB",
+        "label2": "LADD AAF Fort Wainwright"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "FKK PAFK",
+        "label2": "Farewell Lake Seaplane Base"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "FSP PAFS",
+        "label2": "Nikolai"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "GKN PAGK",
+        "label2": "Gulkana"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "HOM PAHO",
+        "label2": "Homer"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "HRR PAHV",
+        "label2": "Healy River"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "IEM PAWR",
+        "label2": "Whittier"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "IGG PAIG",
+        "label2": "Igiugig"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ILI PAIL",
+        "label2": "Iliamna"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "INR PAIN",
+        "label2": "Mckinley National Park"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "IYS PAWS",
+        "label2": "Wasilla"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "JZZ PAJZ",
+        "label2": "Koliganek"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "KNW PANW",
+        "label2": "New Stuyahok"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "LHD* PALH",
+        "label2": "Lake Hood Seaplane Base"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "MCG PAMC",
+        "label2": "McGrath"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "MDO PAMD",
+        "label2": "Middleton Island"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "MHM PAMH",
+        "label2": "Minchumina"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "MLY PAML",
+        "label2": "Manley Hot Springs"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "MRI* PAMR",
+        "label2": "Merrill Field"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ORT PAOR",
+        "label2": "Northway"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "PAQ PAAQ",
+        "label2": "Palmer Municipal"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "PXK PAXK",
+        "label2": "Paxson"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SKW PASW",
+        "label2": "Skwentna"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SLQ PASL",
+        "label2": "Sleetmute"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SOV PASO",
+        "label2": "Seldovia"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SVW PASV",
+        "label2": "Sparrevohn LRRS"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SWD PAWD",
+        "label2": "Seward"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "SXQ PASX",
+        "label2": "Soldotna"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TAL PATA",
+        "label2": "Ralph M. Calhoun Memorial"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TKA PATK",
+        "label2": "Talkeetna"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TLJ PATL",
+        "label2": "Tatalina LRRS"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "TTW PATW",
+        "label2": "Cantwell"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "UUO PAUO",
+        "label2": "Willow"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "VDZ PAVD",
+        "label2": "Valdez Pioneer Field"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "05K PAKX",
+        "label2": "Wilder Runway LLC"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "15Z PAMX",
+        "label2": "McCarthy"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "6AK PAPT",
+        "label2": "Rainy Pass Lodge"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "ADZ PAZK",
+        "label2": "Eureka Lodge"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "IEC PAEC",
+        "label2": "Chulitna"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "PJA PALJ",
+        "label2": "Port Alsworth"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "POR PATO",
+        "label2": "Portage Visitors Center"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "PTI PAPT",
+        "label2": "Rainy Pass Lodge"
       }
     ]
   },
