@@ -38,12 +38,42 @@
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "Lower Yukon"
       },
       {
         "top": "10px",
         "left": "10px",
-        "label": "KEN"
+        "label": "Kuskowim Valley"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Cook Inlet Susitna Valley"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Bristol Bay"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Kodiak Island"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Central Gulf Coast"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Copper River Basin"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Tanana Valley"
       }
     ]
   },
