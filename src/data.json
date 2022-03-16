@@ -319,7 +319,22 @@
       {
         "top": "10px",
         "left": "10px",
-        "label": "Windy Pass"
+        "label": "Portage Pass"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Tahneta Pass"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Isabel Pass"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Mentasta Pass"
       },
       {
         "top": "10px",
@@ -329,7 +344,22 @@
       {
         "top": "10px",
         "left": "10px",
-        "label": "Windy Pass"
+        "label": "Shellabarger Pass"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Rainy Pass"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Ptarmigan Pass"
+      },
+      {
+        "top": "10px",
+        "left": "10px",
+        "label": "Merrill Pass"
       },
       {
         "top": "10px",
