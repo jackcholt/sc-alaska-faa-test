@@ -1,6 +1,7 @@
 [
   {
     "name": "Bodies of Water",
+    "disabled": true,
     "src": "bodies_of_water.png",
     "hovers": [
       {
@@ -152,6 +153,7 @@
   },
   {
     "name": "Flight Plan / METAR ID",
+    "disabled": true,
     "src": "flight_plan_metar.png",
     "hovers": [
       {
@@ -476,6 +478,7 @@
   },
   {
     "name": "Forecast Zones",
+    "disabled": true,
     "src": "forecast_zones.png",
     "hovers": [
       {
@@ -522,6 +525,7 @@
   },
   {
     "name": "FPA TAF",
+    "disabled": true,
     "src": "fpa_taf.png",
     "hovers": [
       {
@@ -947,27 +951,6 @@
         "label": "A1"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 78,
-        "height": 20,
-        "label": "J111"
-      },
-      {
-        "left": 10,
-        "top": 10,
-        "width": 78,
-        "height": 20,
-        "label": "J115"
-      },
-      {
-        "left": 10,
-        "top": 10,
-        "width": 78,
-        "height": 20,
-        "label": "J125"
-      },
-      {
         "left": 1065,
         "top": 256,
         "width": 76,
@@ -1109,6 +1092,7 @@
   },
   {
     "name": "Passes",
+    "disabled": true,
     "src": "sc_alaska_passes.png",
     "hovers": [
       {
@@ -1165,6 +1149,7 @@
   },
   {
     "name": "Restricted Areas and MOAs",
+    "disabled": true,
     "src": "restricted_moa.png",
     "hovers": [
       {
@@ -1301,6 +1286,7 @@
   },
   {
     "name": "Ranges",
+    "disabled": true,
     "src": "ranges.png",
     "hovers": [
       {
