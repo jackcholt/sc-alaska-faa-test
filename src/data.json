@@ -210,324 +210,429 @@
   },
   {
     "name": "Flight Plan / METAR ID",
-    "disabled": true,
     "src": "flight_plan_metar.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 447,
+        "top": 690,
+        "width": 150,
+        "height": 55,
         "label": "ADQ* PADQ",
         "label2": "Kodiak State"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 239,
+        "top": 608,
+        "width": 150,
+        "height": 55,
         "label": "AKN* PAKN",
         "label2": "King Salmon"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 658,
+        "top": 650,
+        "width": 150,
+        "height": 55,
         "label": "ANC* PANC",
         "label2": "Ted Stevens Intl"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 736,
+        "top": 542,
+        "width": 150,
+        "height": 55,
         "label": "BCV PABV",
         "label2": "Birchwood"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 690,
+        "top": 90,
+        "width": 150,
+        "height": 55,
         "label": "BIG* PABI",
         "label2": "Allen AAF"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 752,
+        "top": 405,
+        "width": 150,
+        "height": 55,
         "label": "CDV PACV",
         "label2": "Merle K(Mudhole) Smith"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 689,
+        "top": 607,
+        "width": 150,
+        "height": 55,
         "label": "EDF* PAED",
         "label2": "Elmendorf AFB"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 626,
+        "top": 41,
+        "width": 150,
+        "height": 55,
         "label": "EIL* PAEI",
         "label2": "Eielson AFB"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 489,
+        "top": 425,
+        "width": 150,
+        "height": 55,
         "label": "ENA* PAEN",
         "label2": "Kenai Municipal"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 555,
+        "top": 60,
+        "width": 150,
+        "height": 55,
         "label": "ENN PANN",
         "label2": "Nenana Municipal"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 591,
+        "top": 29,
+        "width": 150,
+        "height": 55,
         "label": "FAI* PAFA",
         "label2": "Fairbanks INTL"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 618,
+        "top": 26,
+        "width": 150,
+        "height": 55,
         "label": "FBK* PAFB",
         "label2": "LADD AAF Fort Wainwright"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 373,
+        "top": 259,
+        "width": 150,
+        "height": 55,
         "label": "FKK PAFK",
         "label2": "Farewell Lake Seaplane Base"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 349,
+        "top": 209,
+        "width": 150,
+        "height": 55,
         "label": "FSP PAFS",
         "label2": "Nikolai"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 727,
+        "top": 252,
+        "width": 150,
+        "height": 55,
         "label": "GKN PAGK",
         "label2": "Gulkana"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 485,
+        "top": 514,
+        "width": 150,
+        "height": 55,
         "label": "HOM PAHO",
         "label2": "Homer"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 560,
+        "top": 115,
+        "width": 150,
+        "height": 55,
         "label": "HRR PAHV",
         "label2": "Healy River"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 587,
+        "top": 412,
+        "width": 150,
+        "height": 55,
         "label": "IEM PAWR",
         "label2": "Whittier"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 278,
+        "top": 545,
+        "width": 150,
+        "height": 55,
         "label": "IGG PAIG",
         "label2": "Igiugig"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "ILI PAIL",
         "label2": "Iliamna"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "INR PAIN",
         "label2": "Mckinley National Park"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "IYS PAWS",
         "label2": "Wasilla"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "JZZ PAJZ",
         "label2": "Koliganek"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "KNW PANW",
         "label2": "New Stuyahok"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "LHD* PALH",
         "label2": "Lake Hood Seaplane Base"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "MCG PAMC",
         "label2": "McGrath"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "MDO PAMD",
         "label2": "Middleton Island"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "MHM PAMH",
         "label2": "Minchumina"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "MLY PAML",
         "label2": "Manley Hot Springs"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "MRI* PAMR",
         "label2": "Merrill Field"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "ORT PAOR",
         "label2": "Northway"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "PAQ PAAQ",
         "label2": "Palmer Municipal"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "PXK PAXK",
         "label2": "Paxson"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "SKW PASW",
         "label2": "Skwentna"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "SLQ PASL",
         "label2": "Sleetmute"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "SOV PASO",
         "label2": "Seldovia"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "SVW PASV",
         "label2": "Sparrevohn LRRS"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "SWD PAWD",
         "label2": "Seward"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "SXQ PASX",
         "label2": "Soldotna"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "TAL PATA",
         "label2": "Ralph M. Calhoun Memorial"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "TKA PATK",
         "label2": "Talkeetna"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "TLJ PATL",
         "label2": "Tatalina LRRS"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "TTW PATW",
         "label2": "Cantwell"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "UUO PAUO",
         "label2": "Willow"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "VDZ PAVD",
         "label2": "Valdez Pioneer Field"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "05K PAKX",
         "label2": "Wilder Runway LLC"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "15Z PAMX",
         "label2": "McCarthy"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "6AK PAPT",
         "label2": "Rainy Pass Lodge"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "ADZ PAZK",
         "label2": "Eureka Lodge"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "IEC PAEC",
         "label2": "Chulitna"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "PJA PALJ",
         "label2": "Port Alsworth"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "POR PATO",
         "label2": "Portage Visitors Center"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 55,
         "label": "PTI PAPT",
         "label2": "Rainy Pass Lodge"
       }
