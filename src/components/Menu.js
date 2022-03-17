@@ -5,10 +5,11 @@ import styled from "styled-components"
 
 const MenuItem = styled.li`
   cursor: pointer;
+  color: ${({disabled}) => disabled ? "grey" : "black"};
   
   :hover {
-    background-color: lightskyblue;
-    font-weight: bold;
+    background-color: ${({disabled}) => disabled ? null : "lightskyblue"};
+    font-weight: ${({disabled}) => !disabled && "bold"};
   }
 `
 
@@ -29,7 +30,11 @@ const Menu = (props) => {
           {jsonData.map((item) =>
               <MenuItem
                   key={item.src}
+                  disabled={item.disabled}
                   onClick={() => {
+                    if (item.disabled) {
+                      return
+                    }
                     setSource(item.src)
                     setMapData(item.hovers)
                   }}>
