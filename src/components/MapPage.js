@@ -37,6 +37,7 @@ const MapPage = () => {
   return (
       <Container>
         <StyledMenu
+            source={source}
             setSource={setSource}
             setMapData={setMapData}
         >

@@ -6,6 +6,11 @@ import styled from "styled-components"
 const MenuItem = styled.li`
   cursor: pointer;
   color: ${({disabled}) => disabled ? "grey" : "black"};
+  padding: .2rem;
+  
+  &.chosenItem {
+    background-color: #66bf3c;
+  }
   
   :hover {
     background-color: ${({disabled}) => disabled ? null : "lightskyblue"};
@@ -22,7 +27,7 @@ const Container = styled.div`
   margin-left: 0;
 `
 const Menu = (props) => {
-  const {setSource, setMapData} = props
+  const {source, setSource, setMapData} = props
 
   return (
       <Container>
@@ -31,6 +36,7 @@ const Menu = (props) => {
               <MenuItem
                   key={item.src}
                   disabled={item.disabled}
+                  className={(source !== item.src) ? null : "chosenItem"}
                   onClick={() => {
                     if (item.disabled) {
                       return
@@ -49,6 +55,7 @@ const Menu = (props) => {
 export default Menu
 
 Menu.propTypes = {
+  source: PropTypes.string,
   setSource: PropTypes.func,
-  setMapData: PropTypes.func
+  setMapData: PropTypes.func,
 }
