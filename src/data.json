@@ -261,8 +261,8 @@
         "label2": "Merle K(Mudhole) Smith"
       },
       {
-        "left": 689,
-        "top": 607,
+        "left": 551,
+        "top": 549,
         "width": 150,
         "height": 55,
         "label": "EDF* PAED",
@@ -341,16 +341,16 @@
         "label2": "Homer"
       },
       {
-        "left": 560,
-        "top": 115,
+        "left": 419,
+        "top": 92,
         "width": 150,
         "height": 55,
         "label": "HRR PAHV",
         "label2": "Healy River"
       },
       {
-        "left": 587,
-        "top": 412,
+        "left": 604,
+        "top": 341,
         "width": 150,
         "height": 55,
         "label": "IEM PAWR",
@@ -365,17 +365,17 @@
         "label2": "Igiugig"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 325,
+        "top": 509,
         "width": 150,
         "height": 55,
         "label": "ILI PAIL",
         "label2": "Iliamna"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 150,
+        "left": 565,
+        "top": 138,
+        "width": 170,
         "height": 55,
         "label": "INR PAIN",
         "label2": "Mckinley National Park"
@@ -621,9 +621,9 @@
         "label2": "Port Alsworth"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 150,
+        "left": 587,
+        "top": 412,
+        "width": 167,
         "height": 55,
         "label": "POR PATO",
         "label2": "Portage Visitors Center"
