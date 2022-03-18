@@ -389,8 +389,8 @@
         "label2": "Wasilla"
       },
       {
-        "left": 216,
-        "top": 451,
+        "left": 72,
+        "top": 452,
         "width": 150,
         "height": 55,
         "label": "JZZ PAJZ",
@@ -445,180 +445,164 @@
         "label2": "Manley Hot Springs"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 689,
+        "top": 623,
         "width": 150,
         "height": 55,
         "label": "MRI* PAMR",
         "label2": "Merrill Field"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 858,
+        "top": 154,
         "width": 150,
         "height": 55,
         "label": "ORT PAOR",
         "label2": "Northway"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 580,
+        "top": 327,
         "width": 150,
         "height": 55,
         "label": "PAQ PAAQ",
         "label2": "Palmer Municipal"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 360,
+        "top": 482,
         "width": 150,
         "height": 55,
         "label": "PXK PAXK",
         "label2": "Paxson"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 484,
+        "top": 300,
         "width": 150,
         "height": 55,
         "label": "SKW PASW",
         "label2": "Skwentna"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 84,
+        "top": 330,
         "width": 150,
         "height": 55,
         "label": "SLQ PASL",
         "label2": "Sleetmute"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 475,
+        "top": 534,
         "width": 150,
         "height": 55,
         "label": "SOV PASO",
         "label2": "Seldovia"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 298,
+        "top": 384,
         "width": 150,
         "height": 55,
         "label": "SVW PASV",
         "label2": "Sparrevohn LRRS"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 576,
+        "top": 461,
         "width": 150,
         "height": 55,
         "label": "SWD PAWD",
         "label2": "Seward"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 503,
+        "top": 438,
         "width": 150,
         "height": 55,
         "label": "SXQ PASX",
         "label2": "Soldotna"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 150,
+        "left": 240,
+        "top": 11,
+        "width": 200,
         "height": 55,
         "label": "TAL PATA",
         "label2": "Ralph M. Calhoun Memorial"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 528,
+        "top": 265,
         "width": 150,
         "height": 55,
         "label": "TKA PATK",
         "label2": "Talkeetna"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 132,
+        "top": 223,
         "width": 150,
         "height": 55,
         "label": "TLJ PATL",
         "label2": "Tatalina LRRS"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 150,
+        "left": 568,
+        "top": 164,
+        "width": 110,
         "height": 55,
         "label": "TTW PATW",
         "label2": "Cantwell"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 150,
+        "left": 535,
+        "top": 314,
+        "width": 110,
         "height": 55,
         "label": "UUO PAUO",
         "label2": "Willow"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 709,
+        "top": 351,
         "width": 150,
         "height": 55,
         "label": "VDZ PAVD",
         "label2": "Valdez Pioneer Field"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 352,
+        "top": 463,
         "width": 150,
         "height": 55,
         "label": "05K PAKX",
         "label2": "Wilder Runway LLC"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 851,
+        "top": 304,
         "width": 150,
         "height": 55,
         "label": "15Z PAMX",
         "label2": "McCarthy"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 414,
+        "top": 291,
         "width": 150,
         "height": 55,
         "label": "6AK PAPT",
         "label2": "Rainy Pass Lodge"
       },
       {
-        "left": 10,
-        "top": 10,
-        "width": 150,
-        "height": 55,
-        "label": "ADZ PAZK",
-        "label2": "Eureka Lodge"
-      },
-      {
-        "left": 10,
-        "top": 10,
-        "width": 150,
+        "left": 546,
+        "top": 209,
+        "width": 110,
         "height": 55,
         "label": "IEC PAEC",
         "label2": "Chulitna"
-      },
-      {
-        "left": 10,
-        "top": 10,
-        "width": 150,
-        "height": 55,
-        "label": "PJA PALJ",
-        "label2": "Port Alsworth"
       },
       {
         "left": 587,
@@ -629,8 +613,8 @@
         "label2": "Portage Visitors Center"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 440,
+        "top": 282,
         "width": 150,
         "height": 55,
         "label": "PTI PAPT",
