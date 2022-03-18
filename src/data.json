@@ -255,7 +255,7 @@
       {
         "left": 752,
         "top": 405,
-        "width": 150,
+        "width": 190,
         "height": 55,
         "label": "CDV PACV",
         "label2": "Merle K(Mudhole) Smith"
@@ -312,7 +312,7 @@
         "left": 373,
         "top": 259,
         "width": 150,
-        "height": 55,
+        "height": 70,
         "label": "FKK PAFK",
         "label2": "Farewell Lake Seaplane Base"
       },
@@ -381,64 +381,64 @@
         "label2": "Mckinley National Park"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 420,
+        "top": 332,
         "width": 150,
         "height": 55,
         "label": "IYS PAWS",
         "label2": "Wasilla"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 216,
+        "top": 451,
         "width": 150,
         "height": 55,
         "label": "JZZ PAJZ",
         "label2": "Koliganek"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 68,
+        "top": 535,
         "width": 150,
         "height": 55,
         "label": "KNW PANW",
         "label2": "New Stuyahok"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 521,
+        "top": 575,
         "width": 150,
         "height": 55,
         "label": "LHD* PALH",
         "label2": "Lake Hood Seaplane Base"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 156,
+        "top": 156,
         "width": 150,
         "height": 55,
         "label": "MCG PAMC",
         "label2": "McGrath"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 731,
+        "top": 506,
         "width": 150,
         "height": 55,
         "label": "MDO PAMD",
         "label2": "Middleton Island"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 290,
+        "top": 127,
         "width": 150,
         "height": 55,
         "label": "MHM PAMH",
         "label2": "Minchumina"
       },
       {
-        "left": 10,
-        "top": 10,
+        "left": 348,
+        "top": 24,
         "width": 150,
         "height": 55,
         "label": "MLY PAML",
