@@ -469,8 +469,8 @@
         "label2": "Palmer Municipal"
       },
       {
-        "left": 360,
-        "top": 482,
+        "left": 715,
+        "top": 177,
         "width": 150,
         "height": 55,
         "label": "PXK PAXK",
@@ -1104,57 +1104,76 @@
   },
   {
     "name": "Passes",
-    "disabled": true,
     "src": "sc_alaska_passes.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 537,
+        "top": 485,
+        "width": 150,
+        "height": 18,
         "label": "Portage Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Tahneta Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Isabel Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Mentasta Pass"
       },
       {
-        "top": 10,
         "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Windy Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Shellabarger Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Rainy Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Ptarmigan Pass"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Merrill Pass"
       },
       {
-        "top": 10,
         "left": 10,
+        "top": 10,
+        "width": 150,
+        "height": 18,
         "label": "Lake Clark Pass"
       }
     ]
