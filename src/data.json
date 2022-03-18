@@ -624,331 +624,197 @@
   },
   {
     "name": "Forecast Zones",
-    "disabled": true,
     "src": "forecast_zones.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 245,
+        "top": 73,
+        "width": 141,
+        "height": 76,
         "label": "Lower Yukon"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 281,
+        "top": 298,
+        "width": 141,
+        "height": 76,
         "label": "Kuskowim Valley"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 487,
+        "top": 373,
+        "width": 141,
+        "height": 76,
         "label": "Cook Inlet Susitna Valley"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 207,
+        "top": 522,
+        "width": 141,
+        "height": 76,
         "label": "Bristol Bay"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 482,
+        "top": 724,
+        "width": 141,
+        "height": 76,
         "label": "Kodiak Island"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 702,
+        "top": 581,
+        "width": 141,
+        "height": 76,
         "label": "Central Gulf Coast"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 923,
+        "top": 259,
+        "width": 141,
+        "height": 76,
         "label": "Copper River Basin"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 696,
+        "top": 29,
+        "width": 141,
+        "height": 76,
         "label": "Tanana Valley"
       }
     ]
   },
   {
     "name": "FPA TAF",
-    "disabled": true,
     "src": "fpa_taf.png",
     "hovers": [
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "ADK*",
-        "label2": "Adak Island"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 531,
+        "top": 836,
+        "width": 150,
+        "height": 55,
         "label": "ADQ",
         "label2": "Kodiak"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 289,
+        "top": 746,
+        "width": 150,
+        "height": 55,
         "label": "AKN",
         "label2": "King Salmon"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 645,
+        "top": 453,
+        "width": 150,
+        "height": 55,
         "label": "ANC",
         "label2": "Anchorage"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "AQT",
-        "label2": "Nuiqsut"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "BET",
-        "label2": "Bethel"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 816,
+        "top": 114,
+        "width": 150,
+        "height": 55,
         "label": "BIG",
         "label2": "Delta Junction"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "BRW",
-        "label2": "Barrow"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "BTT",
-        "label2": "Bettles"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "CDB",
-        "label2": "Cold Bay"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "CDB",
+        "left": 895,
+        "top": 495,
+        "width": 150,
+        "height": 55,
+        "label": "CDV",
         "label2": "Cordova"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "CZF*",
-        "label2": "Cape Romanzof"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "DLG",
-        "label2": "Dillingham"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "EHM*",
-        "label2": "Cape Newenham"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 591,
+        "top": 522,
+        "width": 150,
+        "height": 55,
         "label": "ENA",
         "label2": "Kenai"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 721,
+        "top": 50,
+        "width": 150,
+        "height": 55,
         "label": "FAI",
         "label2": "Fairbanks"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "GAL",
-        "label2": "Galena"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 832,
+        "top": 315,
+        "width": 150,
+        "height": 55,
         "label": "GKN",
         "label2": "Gulkana"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "GST",
-        "label2": "Gustavus"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "HNA",
-        "label2": "Haines"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 582,
+        "top": 620,
+        "width": 150,
+        "height": 55,
         "label": "HOM",
         "label2": "Homer"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 389,
+        "top": 600,
+        "width": 150,
+        "height": 55,
         "label": "ILI",
         "label2": "Iliamna"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "KTN",
-        "label2": "Ketchikan"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 355,
+        "top": 263,
+        "width": 150,
+        "height": 55,
         "label": "MCG",
         "label2": "McGrath"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "OME",
-        "label2": "Nome"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 1022,
+        "top": 192,
+        "width": 150,
+        "height": 55,
         "label": "ORT",
         "label2": "Northway"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "OTZ",
-        "label2": "Kotzebue"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 681,
+        "top": 387,
+        "width": 150,
+        "height": 55,
         "label": "PAQ",
         "label2": "Palmer Municipal"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "PSG",
-        "label2": "Petersburg"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "SCC",
-        "label2": "Deadhorse"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "SDP",
-        "label2": "Sand Point"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "SGY",
-        "label2": "Skagway"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "SIT",
-        "label2": "Sitka"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "SNP",
-        "label2": "St Paul Island"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "SYA*",
-        "label2": "Shemya"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 505,
+        "top": 40,
+        "width": 150,
+        "height": 55,
         "label": "TAL",
         "label2": "Tanana"
       },
       {
-        "top": "10px",
-        "left": "10px",
+        "left": 621,
+        "top": 323,
+        "width": 150,
+        "height": 55,
         "label": "TKA",
         "label2": "Talkeetna"
       },
       {
-        "top": "10px",
-        "left": "10px",
-        "label": "TNC*",
-        "label2": "Tin City"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "UNK",
-        "label2": "Unalakleet"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "UTO",
-        "label2": "Indian Mountain"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
+        "left": 846,
+        "top": 410,
+        "width": 150,
+        "height": 55,
         "label": "VDZ",
         "label2": "Valdez"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "YAK",
-        "label2": "Yakutat"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "CYDA",
-        "label2": "Dawson City"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "CYDB",
-        "label2": "Burwash Landing"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "CYXY",
-        "label2": "Whitehorse"
-      },
-      {
-        "top": "10px",
-        "left": "10px",
-        "label": "JNU",
-        "label2": "Juneau"
       }
     ]
   },
