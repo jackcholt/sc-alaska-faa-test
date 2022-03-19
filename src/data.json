@@ -1104,6 +1104,7 @@
   },
   {
     "name": "Passes",
+    "disabled": true,
     "src": "sc_alaska_passes.png",
     "hovers": [
       {
@@ -1180,137 +1181,188 @@
   },
   {
     "name": "Restricted Areas and MOAs",
-    "disabled": true,
     "src": "restricted_moa.png",
     "hovers": [
       {
-        "top": 10,
-        "left": 10,
-        "label": "Susitna MOA"
+        "left": 573,
+        "top": 475,
+        "width": 83,
+        "height": 15,
+        "label": "Susitna"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 238,
+        "top": 689,
+        "width": 83,
+        "height": 15,
         "label": "Naknek 1"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 366,
+        "top": 688,
+        "width": 83,
+        "height": 15,
         "label": "Naknek 2"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 652,
+        "top": 331,
+        "width": 83,
+        "height": 15,
         "label": "Fox 1"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 902,
+        "top": 388,
+        "width": 83,
+        "height": 15,
         "label": "Fox 2"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 753,
+        "top": 421,
+        "width": 83,
+        "height": 15,
         "label": "Fox 3"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 943,
+        "top": 348,
+        "width": 83,
+        "height": 15,
         "label": "Delta 1-4"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 896,
+        "top": 432,
+        "width": 83,
+        "height": 15,
         "label": "Paxon"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 405,
+        "top": 549,
+        "width": 83,
+        "height": 15,
         "label": "Stony A"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 257,
+        "top": 520,
+        "width": 83,
+        "height": 15,
         "label": "Stony B"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 884,
+        "top": 209,
+        "width": 83,
+        "height": 15,
         "label": "Yukon 1"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 864,
+        "top": 128,
+        "width": 83,
+        "height": 15,
         "label": "Yukon 2"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 1028,
+        "top": 248,
+        "width": 83,
+        "height": 15,
         "label": "Yukon 3B"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 980,
+        "top": 210,
+        "width": 126,
+        "height": 15,
         "label": "Yukon 3H and 3A"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 981,
+        "top": 115,
+        "width": 83,
+        "height": 15,
         "label": "Yukon 4"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 913,
+        "top": 39,
+        "width": 83,
+        "height": 15,
         "label": "Yukon 5"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 662,
+        "top": 305,
+        "width": 83,
+        "height": 15,
         "label": "Eilson"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 857,
+        "top": 237,
+        "width": 83,
+        "height": 15,
         "label": "Birch"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 963,
+        "top": 309,
+        "width": 83,
+        "height": 15,
         "label": "Buffalo"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 440,
+        "top": 307,
+        "width": 83,
+        "height": 15,
         "label": "Galena"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 932,
+        "top": 257,
+        "width": 83,
+        "height": 15,
         "label": "R2201A-D"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 834,
+        "top": 261,
+        "width": 83,
+        "height": 15,
         "label": "R2202A-C"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 741,
+        "top": 600,
+        "width": 83,
+        "height": 15,
         "label": "R2203A-C"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 763,
+        "top": 154,
+        "width": 83,
+        "height": 15,
         "label": "R2205A-K"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 614,
+        "top": 270,
+        "width": 83,
+        "height": 15,
         "label": "R2206"
       },
       {
-        "top": 10,
-        "left": 10,
+        "left": 661,
+        "top": 225,
+        "width": 83,
+        "height": 15,
         "label": "R2211"
       }
     ]
